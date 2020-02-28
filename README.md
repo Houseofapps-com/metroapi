@@ -5,9 +5,9 @@
 
 Modul | Aciklama
 ------------ | ------------
-[Mesafeler](./distance/README.md) | Mesafe bilgileri uzerine detaylar.
-[Lokasyonlar](./locations/README.md) | Istasyon kordinatlari uzerine detaylar.
-[Periyotlar](./periods/README.md) | Periyotlar uzerine detaylar.
-[Istasyonlar](./stations/README.md) | Istasyonlar uzerine detaylar.
-[Otoparklar](./parking/README.md) | Otoparklar uzerine detaylar.
-[Yolcular](./passenger/README.md) | Yolcular uzerine detaylar.
+[Mesafeler](service/distance/README.md) | Mesafe bilgileri uzerine detaylar.
+[Lokasyonlar](service/locations/README.md) | Istasyon kordinatlari uzerine detaylar.
+[Periyotlar](service/periods/README.md) | Periyotlar uzerine detaylar.
+[Istasyonlar](service/stations/README.md) | Istasyonlar uzerine detaylar.
+[Otoparklar](service/parking/README.md) | Otoparklar uzerine detaylar.
+[Yolcular](service/passenger/README.md) | Yolcular uzerine detaylar.
