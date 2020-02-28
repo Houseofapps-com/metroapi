@@ -1,13 +1,13 @@
-# Izmir Hackathon 2020 Resmi Uygulama Gelistirme Ara Yuz Dokumani.
-* Resmi olarak hackathon suresince kullanilacak BASEURL: **https://api.izmirhackathon.com**
-* Dokuman icerisinde gecen parametreler ve desteklenen data yapilari tamamen mevcut uygulama ara katmani ile ayni versiyondadir. **Parametreler** ve **Servis Ucu** uyumluluklarina dikkat edilmelidir.
-* Servis uclarinin kullanimlarinda hangi http metodlari ile gelinmesi istendigine dikkat edilmelidir. Uygulama ara katmani genel **get** ve **post** metodlari ile calismaktadir.
+# İzmir Hackathon 2020 Resmi Uygulama Geliştirme Arayüz Dökümanı.
+* Resmi olarak hackathon süresince kullanılacak BASEURL: **http://api.izmirhackathon.com**
+* Döküman içerisinde geçen parametreler ve desteklenen data yapıları tamamen mevcut uygulama ara katmanı ile aynı versiyondadır. **Parametreler** ve **Servis Ucu** uyumluluklarına dikkat edilmelidir.
+* Servis uçlarının kullanımlarında hangi http metodları ile gelinmesi istendiğine dikkat edilmelidir. Uygulama ara katmanı genel **get** ve **post** metodları ile calışmaktadır.
 
 Modul | Aciklama
 ------------ | ------------
-[Mesafeler](service/distance/README.md) | Mesafe bilgileri uzerine detaylar.
-[Lokasyonlar](service/locations/README.md) | Istasyon kordinatlari uzerine detaylar.
-[Periyotlar](service/periods/README.md) | Periyotlar uzerine detaylar.
-[Istasyonlar](service/stations/README.md) | Istasyonlar uzerine detaylar.
-[Otoparklar](service/parking/README.md) | Otoparklar uzerine detaylar.
-[Yolcular](service/passenger/README.md) | Yolcular uzerine detaylar.
+[Mesafeler](service/distance/README.md) | Mesafe bilgileri üzerine detaylar.
+[Lokasyonlar](service/locations/README.md) | İstasyon kordinatlari üzerine detaylar.
+[Periyotlar](service/periods/README.md) | Periyotlar üzerine detaylar.
+[Istasyonlar](service/stations/README.md) | İstasyonlar üzerine detaylar.
+[Otoparklar](service/parking/README.md) | Otoparklar üzerine detaylar.
+[Yolcular](service/passenger/README.md) | Yolcular üzerine detaylar.

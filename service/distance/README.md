@@ -1,21 +1,21 @@
 # Distance Servisi
-Distance servisine ilgili url uzerinden erisilecektir.
+Distance servisine ilgili url üzerinden erişilecektir.
 
 Service URL: **{baseurl}//metroapi/distance**
 Service metodu: **GET**
 
-## Istek atarken herhangi bir parametre almaktadir.
+## İstek atarken herhangi bir parametre almamaktadır.
 
-## Servis donus data deseni
+## Servis dönüş data deseni
 
 Parametre | Tip
 ------------ | ------------
-id_st | baslangic istasyon id bilgisi
-station_start | baslangic istasyon adi
-id_end | bitis istasyon id bilgisi
-station_end | bitis istasyon adi 
+id_st | başlangıç istasyon id bilgisi
+station_start | başlangıç istasyon adi
+id_end | bitiş istasyon id bilgisi
+station_end | bitiş istasyon adi 
 distance(mt) | integer tipli mesafe bilgisi (metre)
-duration(sec) | integer tipli sure bilgisi (saniye)
-wait(sec) | integer tipli istasyonda bekleme suresi (saniye)
-travel(sec) | integer tipli toplam seyahat suresi (saniye)
+duration(sec) | integer tipli süre bilgisi (saniye)
+wait(sec) | integer tipli istasyonda bekleme süresi (saniye)
+travel(sec) | integer tipli toplam seyahat süresi (saniye)
 

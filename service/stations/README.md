@@ -1,0 +1,22 @@
+# Stations Servisi
+Stations servisine ilgili url üzerinden erişilecektir.
+
+Service URL: **{baseurl}//metroapi/stations**
+Service metodu: **GET**
+
+## İstek atarken herhangi bir parametre almamaktadır.
+
+## Servis dönüş data deseni
+
+Parametre | Tip
+------------ | ------------
+station |  istasyon adı
+line | integer tipli ilgili istasyondaki ray sayısı
+escalator | integer tipli ilgili istasyondaki yürüyen merdiven sayısı 
+elevator | integer tipli ilgili istasyondaki asansör sayısı
+is_peron_ada | istasyon ada tipi bilgisi(booelan)
+ticket_office | integer tipli ilgili istasyondaki bilet ofis sayısı
+toll_gate_ent | integer tipli ilgili istasyondaki giriş turnike sayısı
+toll_gate_ex | integer tipli ilgili istasyondaki çıkış turnike sayısı
+entrance_exit | integer tipli ilgili istasyondaki giriş-çıkış sayısı
+
