@@ -1,7 +1,7 @@
 # Periods Servisi
 Periods servisine ilgili url üzerinden erişilecektir.
 
-Service URL: **{baseurl}//metroapi/periods**
+Service URL: **{baseurl}//metroapi/period**
 Service metodu: **GET**
 
 ## İstek atarken herhangi bir parametre almamaktadır.
