@@ -1,7 +1,7 @@
 # Distance Servisi
 Distance servisine ilgili url üzerinden erişilecektir.
 
-Service URL: **{baseurl}//metroapi/distance**
+Service URL: **http://api.izmirhackathon.com/distance**
 Service metodu: **GET**
 
 ## İstek atarken herhangi bir parametre almamaktadır.
