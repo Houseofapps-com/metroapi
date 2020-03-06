@@ -16,6 +16,6 @@ id_end | bitiş istasyon id bilgisi
 station_end | bitiş istasyon adi 
 distance(mt) | integer tipli mesafe bilgisi (metre)
 duration(sec) | integer tipli süre bilgisi (saniye)
-wait(sec) | integer tipli istasyonda bekleme süresi (saniye)
+wait(sec) | integer tipli istasyonda trenin bekleme süresi (saniye)
 travel(sec) | integer tipli toplam seyahat süresi (saniye)
 
