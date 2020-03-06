@@ -1,7 +1,7 @@
 # Locations Servisi
 Locations servisine ilgili url üzerinden erişilecektir.
 
-Service URL: **{baseurl}//metroapi/locations**
+Service URL: **http://api.izmirhackathon.com/locations**
 Service metodu: **GET**
 
 ## İstek atarken herhangi bir parametre almamaktadır.

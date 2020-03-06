@@ -1,7 +1,7 @@
 # Parking Servisi
 Parking servisine ilgili url üzerinden erişilecektir.
 
-Service URL: **{baseurl}//metroapi/parking**
+Service URL: **http://api.izmirhackathon.com/parking**
 Service metodu: **GET**
 
 ## İstek atarken herhangi bir parametre almamaktadır.

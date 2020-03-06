@@ -1,7 +1,7 @@
 # Stations Servisi
 Stations servisine ilgili url üzerinden erişilecektir.
 
-Service URL: **{baseurl}//metroapi/stations**
+Service URL: **http://api.izmirhackathon.com/stations**
 Service metodu: **GET**
 
 ## İstek atarken herhangi bir parametre almamaktadır.

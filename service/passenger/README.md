@@ -1,7 +1,7 @@
 # Passengers Servisi
 Passengers servisine ilgili url üzerinden erişilecektir.
 
-Service URL: **{baseurl}//metroapi/passengers**
+Service URL: **http://api.izmirhackathon.com/passengers**
 Service metodu: **GET**
 
 ## İstek atarken herhangi bir parametre almamaktadır.
